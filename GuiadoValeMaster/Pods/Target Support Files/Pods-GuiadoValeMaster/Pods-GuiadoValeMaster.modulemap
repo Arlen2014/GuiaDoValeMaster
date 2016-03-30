@@ -1,0 +1,6 @@
+framework module Pods_GuiadoValeMaster {
+  umbrella header "Pods-GuiadoValeMaster-umbrella.h"
+
+  export *
+  module * { export * }
+}
